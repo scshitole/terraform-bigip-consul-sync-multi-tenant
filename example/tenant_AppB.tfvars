@@ -1,0 +1,9 @@
+tenant="tenant_AppB"
+app="AppB"
+virtualAddress="10.0.0.202"
+virtualPort=8080
+defpool="appB_pool"
+address="5.7.14.4"
+username="admin"
+password="PxxxxayJ"
+port=8443

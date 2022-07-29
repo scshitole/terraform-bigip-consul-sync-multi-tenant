@@ -1,0 +1,9 @@
+tenant="tenant_AppA"
+app="AppA"
+virtualAddress="10.0.0.201"
+virtualPort=8080
+defpool="appA_pool"
+address="3.7.14.8"
+username="admin"
+password="Pxxeal"
+port=8443
